@@ -1,0 +1,16 @@
+{
+  "name": "Soyuz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "homepage": "toshanidis.github.io/",
+  "scripts": {
+    "deploy": "gh-pages -d app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
